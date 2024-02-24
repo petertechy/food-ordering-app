@@ -13,7 +13,7 @@ export default function SignIn() {
                 <img className='imgSize w-100 ' src={bgImage} alt="" />
             </div>
             <div className="col-4 mx-5">
-                <h1 className='mt-5'>Welcome to RayFoods</h1>
+                <h1 className='mt-5'>Welcome to PetertechyFoods</h1>
                 <h4 className='my-3 text-muted '>Log in to continue</h4>
                 <label>Email</label>
                 <input type="text" className='form-control my-1'  />
